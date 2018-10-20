@@ -1,0 +1,2 @@
+# MyReactComponent
+make componet 
